@@ -206,7 +206,7 @@ customer_data$Cluster <- as.factor(kmeans_result$cluster)
 
 📫 Email: dimikonan@gmail.com
 
-💼 LinkedIn: www.linkedin.com/in/diane-konan
+💼 LinkedIn: https://www.linkedin.com/in/diane-konan
 
 Thank you for visiting my portfolio! Feel free to explore my projects and reach out for collaborations, feedback, or questions. 
 
