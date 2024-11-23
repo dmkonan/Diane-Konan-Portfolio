@@ -14,7 +14,6 @@ With a strong foundation in data analytics and programming, I focus on extractin
 
 **Customer Segmentation and Retention Analysis**
 
-**Natural Language Processing: Sentiment Analysis**
 
 # Project 1 : Sales Performance Analysis
 
