@@ -1,5 +1,3 @@
-# Diane Konan's Portfolio
-
 Welcome to my GitHub portfolio! 
 
 # About Me
