@@ -19,7 +19,7 @@ With a strong foundation in data analytics and programming, I focus on extractin
 
 **Source:** Kaggle
 
-**Link:** https://www.kaggle.com/datasets/rajneesh231/retail-insights-a-comprehensive-sales-dataset/data
+**Link:** [https://www.kaggle.com/datasets/rajneesh231/retail-insights-a-comprehensive-sales-dataset/data](https://www.kaggle.com/datasets/rajneesh231/retail-insights-a-comprehensive-sales-dataset/data)
 
 # Objective
 The objective of this project is to analyze sales performance and gain actionable insights into revenue trends, profit margins, product performance, and order distribution across locations. The analysis provides a foundation for improving business strategy, optimizing product offerings, and tailoring marketing initiatives.
@@ -206,7 +206,7 @@ customer_data$Cluster <- as.factor(kmeans_result$cluster)
 
 📫 Email: dimikonan@gmail.com
 
-💼 LinkedIn: https://www.linkedin.com/in/diane-konan
+💼 LinkedIn: [https://www.linkedin.com/in/diane-konan](https://www.linkedin.com/in/diane-konan)
 
 Thank you for visiting my portfolio! Feel free to explore my projects and reach out for collaborations, feedback, or questions. 
 
