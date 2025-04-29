@@ -2,7 +2,7 @@ Welcome to my GitHub portfolio!
 
 # About Me
 
-My name is Diane Konan, I am a passionate Data Scientist in the making. Currently pursuing a Master’s degree in Data Science at Texas Tech University, I aim to graduate in May 2025. I am also a part-time Data Analyst volunteer at Inter Tax Solutions, a small business specializing in tax consulting.
+My name is Diane Konan, I am a passionate Data Scientist in the making. Currently pursuing a Master’s degree in Data Science at Texas Tech University, I aim to graduate in May 2025. I am also a part-time Data Analyst at Inter Tax Solutions, a small business specializing in tax consulting.
 
 With a strong foundation in data analytics and programming, I focus on extracting meaningful insights from data and applying cutting-edge techniques to solve real-world problems.
 
