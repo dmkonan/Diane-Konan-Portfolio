@@ -51,6 +51,7 @@ Achieved R² of 86.6% with stacked Gradient Boosting + XGBoost; performed extens
 Built NLP classification model using TF-IDF and Scikit-Learn to flag malicious emails and improve email security.
 
 
+---
 
 # Project 1 : Sales Performance Analysis
 
