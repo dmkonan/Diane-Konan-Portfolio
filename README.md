@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dmkonan/dmkonan/main/assets/banner.PNG" alt="Diane Konan Banner" width="100%" />
+  <img src="banner.PNG" alt="Diane Konan Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I am Diane Konan 👋</h1>
@@ -13,7 +13,7 @@
 
 ## 👩🏽‍💻 About Me
 
-I am a Data Scientist with a Master’s in Data Science from Texas Tech University (4.0 GPA), and a background in Business Computer Information Systems. I focus on applying machine learning and statistical modeling to solve real-world problems across fintech, healthcare, and tax consulting.
+I am a Data Scientist with a Master’s in Data Science from Texas Tech University (4.0 GPA), and a background in Business Computer Information Systems. I thrive on solving real-world problems by combining statistical rigor, machine learning, and storytelling. My portfolio reflects that mission—with end-to-end data science projects rooted in real business challenges across multiple industries.
 
 - 🔁 Reduced churn by 30% with predictive modeling
 - ⚙️ Built scalable ETL pipelines in Python and SQL (↓ processing time by 35%)
@@ -49,28 +49,6 @@ Achieved R² of 86.6% with stacked Gradient Boosting + XGBoost; performed extens
 
 ### 🛡️ Phishing Email Classification 
 Built NLP classification model using TF-IDF and Scikit-Learn to flag malicious emails and improve email security.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dmkonan&show_icons=true&theme=calm&count_private=true" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmkonan&layout=compact&theme=calm" />
-</p>
-
----
-
-## 🤝 Let’s Connect
-
-📫 Email: [dimikonan@gmail.com](mailto:dimikonan@gmail.com)  
-🌐 Portfolio: [dmkonan.github.io/Diane-Konan-Portfolio](https://dmkonan.github.io/Diane-Konan-Portfolio)  
-🔗 [LinkedIn](https://www.linkedin.com/in/diane-konan)
-
----
-
-_“Turning complex data into powerful insights—with machine learning, storytelling, and resilience.”_
 
 
 
@@ -263,11 +241,14 @@ customer_data$Cluster <- as.factor(kmeans_result$cluster)
 
   **Note:** Complete R Code [here.](Sales_Data_Clustering.R)
 ---
-# Connect
 
-📫 Email: dimikonan@gmail.com
+## 🤝 Let’s Connect
 
-💼 LinkedIn: [https://www.linkedin.com/in/diane-konan](https://www.linkedin.com/in/diane-konan)
+📫 Email: [dimikonan@gmail.com](mailto:dimikonan@gmail.com)  
+🌐 Portfolio: [dmkonan.github.io/Diane-Konan-Portfolio](https://dmkonan.github.io/Diane-Konan-Portfolio)  
+🔗 [LinkedIn](https://www.linkedin.com/in/diane-konan)
 
-Thank you for visiting my portfolio! Feel free to explore my projects and reach out for collaborations, feedback, or questions. 
+---
+
+_“Turning complex data into powerful insights—with machine learning, storytelling, and resilience.”_
 
