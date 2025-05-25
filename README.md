@@ -1,16 +1,77 @@
-Welcome to my GitHub portfolio! 
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dmkonan/dmkonan/main/assets/banner.PNG" alt="Diane Konan Banner" width="100%" />
+</p>
 
-# About Me
+<h1 align="center">Hi, I am Diane Konan 👋</h1>
 
-My name is Diane Konan, I am a passionate Data Scientist in the making. Currently pursuing a Master’s degree in Data Science at Texas Tech University, I aim to graduate in May 2025. I am also a part-time Data Analyst at Inter Tax Solutions, a small business specializing in tax consulting.
+<p align="center">
+  Data Scientist | Machine Learning Enthusiast | Business-Minded Problem Solver  
+</p>
 
-With a strong foundation in data analytics and programming, I focus on extracting meaningful insights from data and applying cutting-edge techniques to solve real-world problems.
+---
 
-# Featured Projects
+## 👩🏽‍💻 About Me
 
-**Sales Performance Analysis**
+I am a Data Scientist with a Master’s in Data Science from Texas Tech University (4.0 GPA), and a background in Business Computer Information Systems. I focus on applying machine learning and statistical modeling to solve real-world problems across fintech, healthcare, and tax consulting.
 
-**Customer Segmentation and Retention Analysis**
+- 🔁 Reduced churn by 30% with predictive modeling
+- ⚙️ Built scalable ETL pipelines in Python and SQL (↓ processing time by 35%)
+- 📈 Delivered business dashboards in Tableau & Power BI that boosted decisions across departments
+
+I am passionate about bridging data science and business value with clear, actionable insights.
+
+---
+
+## 🔧 Tools & Technologies
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SAS](https://img.shields.io/badge/-SAS-0268A3?style=flat&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
+---
+
+## 📂 Featured Projects
+
+### 📊 [Sales Performance Analysis](https://github.com/dmkonan/sales-performance-analysis)
+Analyzed sales trends and key drivers using visual analytics and dashboarding techniques.
+
+### 👥 [Customer Segmentation & Retention](https://github.com/dmkonan/customer-segmentation-retention)
+Clustered customers with k-means, applied survival analysis to predict churn, and reduced attrition by 8%.
+
+### 🚗 Used Car Price Prediction 
+Achieved R² of 86.6% with stacked Gradient Boosting + XGBoost; performed extensive feature engineering on messy real-world data.
+
+### 🛡️ Phishing Email Classification 
+Built NLP classification model using TF-IDF and Scikit-Learn to flag malicious emails and improve email security.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dmkonan&show_icons=true&theme=calm&count_private=true" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmkonan&layout=compact&theme=calm" />
+</p>
+
+---
+
+## 🤝 Let’s Connect
+
+📫 Email: [dimikonan@gmail.com](mailto:dimikonan@gmail.com)  
+🌐 Portfolio: [dmkonan.github.io/Diane-Konan-Portfolio](https://dmkonan.github.io/Diane-Konan-Portfolio)  
+🔗 [LinkedIn](https://www.linkedin.com/in/diane-konan)
+
+---
+
+_“Turning complex data into powerful insights—with machine learning, storytelling, and resilience.”_
+
 
 
 # Project 1 : Sales Performance Analysis
