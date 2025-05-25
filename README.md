@@ -38,10 +38,10 @@ I am passionate about bridging data science and business value with clear, actio
 
 ## 📂 Featured Projects
 
-### 📊 [Sales Performance Analysis](https://github.com/dmkonan/sales-performance-analysis)
+### 📊 Sales Performance Analysis
 Analyzed sales trends and key drivers using visual analytics and dashboarding techniques.
 
-### 👥 [Customer Segmentation & Retention](https://github.com/dmkonan/customer-segmentation-retention)
+### 👥 Customer Segmentation & Retention
 Clustered customers with k-means, applied survival analysis to predict churn, and reduced attrition by 8%.
 
 ### 🚗 Used Car Price Prediction 
