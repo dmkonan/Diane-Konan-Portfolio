@@ -46,8 +46,8 @@ Achieved R² of 86.6% with stacked Gradient Boosting + XGBoost; performed extens
 
 -Customer Segmentation & Retention: Clustered customers with k-means, applied survival analysis to predict churn, and reduced attrition by 8%.
 
-### Phishing Email Classification *(Coming Soon)*
-Built NLP classification model using TF-IDF and Scikit-Learn to flag malicious emails and improve email security.
+### [Phishing Email Detection](https://github.com/dmkonan/Phishing-Email-Detection)
+Built a text mining and Logistic Regression model using TF-IDF and Scikit-Learn to flag malicious emails and improve email security.
 
 ---
 
