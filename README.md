@@ -39,15 +39,25 @@ I am passionate about bridging data science and business value with clear, actio
 ## 📂 Featured Projects
 
 ###  [Used Car Price Prediction](https://github.com/dmkonan/Used-Car-Price-Prediction) 
+Developed a machine learning system that accurately predicts the price of a used vehicle based on its specifications — ultimately improving pricing accuracy, competitiveness, and profitability.
+
 Achieved R² of 86.6% with stacked Gradient Boosting + XGBoost; performed extensive feature engineering on messy real-world data.
+
+**Tools Used**: Python, Scikit-Learn, XGBoost, Pandas, NumPy, Matplotlib
 
 ### [Retail Insights Analytics](https://github.com/dmkonan/Retail_Analytics)
 -Sales Performance Analysis: Analyzed sales trends and key drivers using visual analytics and dashboarding techniques.
 
+**Tools Used**: Python, PowerBI
+
 -Customer Segmentation & Retention: Clustered customers with k-means, applied survival analysis to predict churn, and reduced attrition by 8%.
 
+**Tools Used**: R, K-Means Clustering
+
 ### [Phishing Email Detection](https://github.com/dmkonan/Phishing-Email-Detection)
-Built a NLP and Logistic Regression model using TF-IDF and Scikit-Learn to flag malicious emails and improve email security.
+Built a NLP and Logistic Regression model using TF-IDF and Scikit-Learn to flag malicious emails and improve email security. 
+
+**Tools Used:** Python, NLP, Logistic Regression, Pandas, Scikit-learn, Matplotlib, WordCloud
 
 ---
 
